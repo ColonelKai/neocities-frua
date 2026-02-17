@@ -2,12 +2,27 @@
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
 
+:root {
+	--bg: #ffffff;
+	--fr_blue: #181d52;
+	--text: #000000;
+}
+
 body {
-  background-color: white;
+  background-color: var(--bg);
   color: black;
   font-family: Verdana;
 }
 
-main-container {
-  width: 50vw;
+#content {
+	padding: 5px;
+	background-color: #DFFFFF;
+	text-align: justify;
+}
+
+#main-container {
+	width: 780px;
+	margin: 10px auto;
+	background: white;
+	border: 1px solid black;
 }
