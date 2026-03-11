@@ -1,0 +1,25 @@
+{
+    "sources": {
+        "alexandria_own_philosophy": {
+            "title": "Why I think Alexandria & Redmont require their own political philosophy",
+            "link": "https://officersquarters.neocities.org/view_post?type=opinion&slug=rant-3"
+        }
+    },
+    "definitions": {
+        "internal_resignations": {
+            "name": "Internal Resignation(s)",
+            "source": "alexandria_own_philosophy",
+            "description": "A player leaving the server permanently or seemingly permanently due to an external factor, a.k.a. real life obligation."
+        },
+        "active_external_resignations": {
+            "name": "Active External Resignation(s)",
+            "source": "alexandria_own_philosophy",
+            "description": "A player leaving the server permanently or seemingly permanently as a result of active discouragement (through toxicity, unwelcome environment, community shunning etc.)"
+        },
+        "passive_external_resignations": {
+            "name": "Passive External Resigation(s)",
+            "source": "alexandria_own_philosophy",
+            "description": "A player leaving the server permanently or seemingly permanently as a result of passive discouragement (inactivity, lack of manpower for project, lack of oppurtunity, lack of education etc.)"
+        }
+    }
+}
